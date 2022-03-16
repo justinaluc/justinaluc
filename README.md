@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justyna @justinaluc
-- 👀 I’m interested in #zero_waste #healthy_food #joga #books_for_children #learning_Italian #learning_new_skills_as_programmer
+- 👀 I’m interested in #zero_waste #healthy_food #joga #books_for_children #learning_Italian #learning_new_skills_as_a_programmer
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on as Junior Python Developer or Data Science.
 - 📫 How to reach me: email: justyna.macniak@gmail.com
