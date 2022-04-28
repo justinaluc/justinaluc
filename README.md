@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on as Junior Python Developer or Data Science.
 - 📫 How to reach me?
--    email: justyna.macniak@gmail.com
--    linkedin: https://www.linkedin.com/in/justyna-%C5%82uczak-9535ab8b/
+  *    email: justyna.macniak@gmail.com
+  *    linkedin: https://www.linkedin.com/in/justyna-%C5%82uczak-9535ab8b/
